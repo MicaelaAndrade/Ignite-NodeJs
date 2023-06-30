@@ -41,28 +41,6 @@ Before you begin, make sure you've met the following requirements:
 - Minimum requirements to run an Expo project: https://docs.expo.dev/get-started/installation/
 - To run the app on a real device, ensure that your device has the updated ExpoGo App.
 
-## ⚙️ Install
-
-For the installation of the project, follow the steps:
-
-Clone the project:
-
-```
-git clone https://github.com/micaelaandrade/02-desafio
-```
-
-Go to project path:
-
-```
-cd daily-diet
-```
-
-Run the command to install all packages:
-
-```
-npm install
-```
-
 ## 🚀 Running the App
 
 After installing the packages just run the command:
